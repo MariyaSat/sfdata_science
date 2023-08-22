@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 2f61888 (Changes to the project)
 =======
@@ -77,3 +78,7 @@ SF homework
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
 >>>>>>> 2f61888 (Changes to the project)
 >>>>>>> d06721f (Changes to the project)
+=======
+# sf_data_science
+SF homework
+>>>>>>> de9b6bf (Initial commit)
